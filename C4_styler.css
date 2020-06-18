@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    color: white;    
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+h1{
+    text-align: center;
+    margin-top: 2%;
+}
+
+h2{
+    text-align: center;
+    margin-top: 3%;
+}
+
+a{
+    color: white !important;
+    text-decoration: none !important;
+}
+
+td{
+    width: 3em;
+    height: 3em;
+    text-align: center;
+    border: solid white 2px;
+    font-size: 2.5em;
+}
+
+.tiktable{
+    margin: auto;
+    margin-top: 4em;
+    border-style: hidden;
+}
+
+.gameboard{
+    margin-top: 3%;
+}
+
+.score-board{
+    text-align: center;
+    font-size: 1.5em;
+    padding-top: 55%;
+    padding-bottom: 0px;
+}
+
+.turn-to-play-text{
+    text-align: center;
+    font-size: 2em;
+    padding-top: 0px;
+    padding-left: 20%;
+}
+
+#player-turn{
+    text-align: center;
+    font-size: 10em;
+    padding-top: 0.75em;
+    padding-bottom: 0px;
+}

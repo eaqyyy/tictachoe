@@ -85,6 +85,7 @@ function marker() {
             if (checkWinner(oSequence)) {
                 turnText.text("O");
                 playWinStatus.text("has won the game!");
+                $('h1').text("X can $uck ma thick di©k!!!")
                 oWinsCount++;
                 oWinsDisplay.text(oWinsCount);
                 return;

@@ -1,3 +1,5 @@
+//buta warna, yudo the tiko bolos tapi ke kantor haha hihi diketawain varian, 
+
 var boxes = $('.boxed');
 var clearButton = $('#clear-button');
 var turnText = $('#turn-text');
@@ -85,7 +87,7 @@ function marker() {
             if (checkWinner(oSequence)) {
                 turnText.text("O");
                 playWinStatus.text("has won the game!");
-                $('h1').text("X can $uck ma thick di©k!!!")
+                $('h1').text("X mom i$ a h0e, LMAO :))")
                 oWinsCount++;
                 oWinsDisplay.text(oWinsCount);
                 return;
